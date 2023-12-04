@@ -7,6 +7,7 @@ The flight delay can cause airline companies many losses such as
 * Dissatisfaction among passengers
 * Time losses
 * Loss of reputation
+
 If an airline doesn't deal with this problem immediately, it will cause other problems. There can be many reasons that causes flight delays such as weather, location, peak season, period of day, and many more. A machine learning prediction model is an indespensable tool to help airlines to predict the flight delay in minutes after departure based on real-time flight data. A classsifer first predicts whether the flight will be delayed or not, and subsequently a regression model predicts the arrival delay in minutes if flight is expected to be delayed.
 
 ## Goals
@@ -16,7 +17,7 @@ If an airline doesn't deal with this problem immediately, it will cause other pr
 * Built a regression model for estimating arrival delay in minutes, if flight is expected to be delayed.
 
 ## Datasets
-Used LATAM Airlines data of flight delay. 
+LATAM Airlines data is used for training the predictive model. 
 
 ## Practical Applications
 
